@@ -4,6 +4,9 @@ npm install -g @angular/cli@latest
 # How to make a starting project
 ng new my-dream-app --no-strict
 
+# serve
+ng serve
+
 # Pros of Angular
 
 # Cons of Angular
