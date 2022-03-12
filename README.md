@@ -52,9 +52,11 @@ app.component.html
 - app.component.css automatically adds styles to html.
 
 # Global CSS Styles
+
 - In case messy CSS dump everything in styles css in the src folder.
 
 # Where to store images in Angular
+
 ![image](https://user-images.githubusercontent.com/34915099/157987109-10236904-4f75-437b-a5bb-d302db60f9b8.png)
 
 ![image](https://user-images.githubusercontent.com/34915099/157987536-80bb3c9f-a3d3-4714-82e0-5de9d4cb4b94.png)
