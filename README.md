@@ -16,7 +16,7 @@ ng new my-dream-app --no-strict
 - http://localhost:4200/
 
 # Add Bootstrap to Angular
-
+- npm install --save bootstrap@3
 - npm i bootstrap
 - angular.json
 - "styles": [
